@@ -11,17 +11,17 @@ An All in one Discord Bot made for moderation, giveaways, music, ticket, levelin
 
 -Music
 
-Music Filter
+-Music Filter
 
-Chatbot
+-Chatbot
 
-Github
+-Github
 
-Npm
+-Npm
 
-Compile
+-Compile
 
-Moderation
+-Moderation
 
 Giveaways
 
