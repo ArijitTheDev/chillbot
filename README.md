@@ -23,17 +23,19 @@ An All in one Discord Bot made for moderation, giveaways, music, ticket, levelin
 
 -Moderation
 
-Giveaways
+-Giveaways
 
-Ticket
+-Ticket
 
-Social media notification
+-Social media notification
 
-Minigames
+-Minigames
 
-Custom commands
+-Custom commands
 
-Announcements and DMs
+-Announcements and DMs
 
-All in one Bot
+_All in one Bot made by Arijit#1000_
+
+For this bot join [Chill Vibes](https://dsc.gg/chillvibesdc)
 
