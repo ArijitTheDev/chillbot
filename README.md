@@ -1,5 +1,5 @@
-# chillbot
-An All in one Discord Bot made for moderation, giveaways, music, ticket, leveling, etc.
+# Chill Bot
+An All in one Discord Bot made by Arijit#1000
 
 **You can use this bot for multipurpose use, For example:**
 
