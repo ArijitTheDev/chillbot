@@ -1,6 +1,7 @@
 # Chill Bot
 An All in one Discord Bot made by Arijit#1000
 
+# Join [Chill Vibes Server](https://dsc.gg/chillvibesdc) for inviting this bot to your server.
 **You can use this bot for multipurpose use, For example:**
 
  - Information
