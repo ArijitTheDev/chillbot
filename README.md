@@ -35,6 +35,8 @@ An All in one Discord Bot made by Arijit#1000
 
 -Announcements and DMs
 
+- And more 300+ commands
+
 _All in one Bot made by Arijit#1000_
 
 For this bot join [Chill Vibes](https://dsc.gg/chillvibesdc)
