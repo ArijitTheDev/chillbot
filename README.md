@@ -3,39 +3,41 @@ An All in one Discord Bot made by Arijit#1000
 
 **You can use this bot for multipurpose use, For example:**
 
--Information
+ - Information
 
--Economy
+ - Economy
 
--Calculation
+ - Calculation
 
--Music
+ - Music
 
--Music Filter
+ - Music Filter
 
--Chatbot
+ - Chatbot
 
--Github
+ - Github
 
--Npm
+ - Npm
 
--Compile
+ - Compile
 
--Moderation
+ - Moderation
 
--Giveaways
+ - Giveaways
 
--Ticket
+ - Ticket
 
--Social media notification
+ - Social media notification
 
--Minigames
+ - Minigames
 
--Custom commands
+ - Custom commands
 
--Announcements and DMs
+ - Announcements and DMs
 
-- And more 300+ commands
+ - Leveling and Welcome System
+
+ - And more 300+ commands
 
 _All in one Bot made by Arijit#1000_
 
